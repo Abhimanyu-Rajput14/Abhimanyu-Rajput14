@@ -70,7 +70,6 @@
 ## 🏆 **My Achievements**  
 - 🎖️ Delivered **10+ high-impact projects** across diverse domains, demonstrating strong expertise in full-stack web development.  
 - 🏅 Certified **Full Stack/MERN Developer** by **Coding Blocks** (May 2024 - Oct 2024).  
-- 🚀 Actively contributing to **open-source projects** and collaborating on GitHub.
 
 ---
 
